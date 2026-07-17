@@ -208,7 +208,7 @@ Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más inform
 
 ## 👨‍💻 Author / Autor
 
-[@visintinitech](https://github.com/visintinitech) – [(mailto:visintinitech@gmail.com)](visintinitech@gmail.com)
+[@visintinitech](https://github.com/visintinitech) – [(visintinitech@gmail.com)](visintinitech@gmail.com)
 
 *Made with ❤️ as a junior developer project.*  
 *Hecho con ❤️ como proyecto de desarrollador junior.*
