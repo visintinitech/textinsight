@@ -217,5 +217,4 @@ Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más inform
 
 ⭐ **If you like this project, give it a star!**  
 ⭐ **Si te gusta este proyecto, ¡dale una estrella!**
-```
 
