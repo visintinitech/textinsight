@@ -13,7 +13,7 @@
 
 ## 📖 Description (English)
 
-**TextInsight 2.0** is a complete Natural Language Processing (NLP) tool designed for **junior developers** who want to understand and apply machine learning in real‑world scenarios. It goes beyond a simple script:
+**TextInsight 2.0** is a complete Natural Language Processing (NLP) tool designed for junior devs who want to understand and apply machine learning in real‑world scenarios. It goes beyond a simple script:
 
 - **🧹 Smart preprocessing** – removes noise (URLs, mentions, numbers, punctuation) automatically.
 - **🤖 AutoML Lite** – compares Naive Bayes vs. Logistic Regression and picks the best model for your data.
