@@ -55,9 +55,10 @@ Todo se almacena en una ligera base de datos **SQLite**, los modelos entrenados 
 | 🗄️ SQLite database for training and predictions | 🗄️ Base de datos SQLite para entrenamiento y predicciones |
 
 ---
-
+```
 ## 📂 Project Structure / Estructura del proyecto
 
+```
 ```
 textinsight/
 ├── textinsight_v2.py          # Main application (clase TextInsight)
